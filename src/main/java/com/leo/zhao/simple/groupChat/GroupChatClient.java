@@ -1,4 +1,4 @@
-package com.leo.zhao.groupChat;
+package com.leo.zhao.simple.groupChat;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
@@ -6,7 +6,6 @@ import java.nio.ByteBuffer;
 import java.nio.channels.*;
 import java.util.Iterator;
 import java.util.Scanner;
-import java.util.Set;
 
 /**
  * 穷聊客户端

@@ -1,4 +1,4 @@
-package com.leo.zhao.netty;
+package com.leo.zhao.netty.http;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;

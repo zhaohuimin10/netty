@@ -1,4 +1,4 @@
-package com.leo.zhao.netty;
+package com.leo.zhao.netty.http;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;

@@ -1,4 +1,4 @@
-package com.leo.zhao.groupChat;
+package com.leo.zhao.simple.groupChat;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
